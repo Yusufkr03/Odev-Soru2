@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\bin\Debug\net8.0\Soru2-5 sayısının karesi.exe
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\bin\Debug\net8.0\Soru2-5 sayısının karesi.deps.json
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\bin\Debug\net8.0\Soru2-5 sayısının karesi.runtimeconfig.json
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\bin\Debug\net8.0\Soru2-5 sayısının karesi.dll
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\bin\Debug\net8.0\Soru2-5 sayısının karesi.pdb
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.dll
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\refint\Soru2-5 sayısının karesi.dll
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.pdb
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\Soru2-5 sayısının karesi.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Soru2-5 sayısının karesi\obj\Debug\net8.0\ref\Soru2-5 sayısının karesi.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru2-5 sayısının karesi", "Soru2-5 sayısının karesi.csproj", "{4D86C060-5E9A-4AF3-9663-F986F4B299C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D86C060-5E9A-4AF3-9663-F986F4B299C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D86C060-5E9A-4AF3-9663-F986F4B299C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D86C060-5E9A-4AF3-9663-F986F4B299C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D86C060-5E9A-4AF3-9663-F986F4B299C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35AB4EDF-ADE5-4E84-86FA-E6CBAB33CD29}
+	EndGlobalSection
+EndGlobal
